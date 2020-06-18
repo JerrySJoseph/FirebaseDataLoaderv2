@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jstechnologies.dataloader.test" >
+4
+5    <uses-sdk
+5-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:11:5-15:84
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:13:22-53
+13        android:label="Tests for com.jstechnologies.dataloader.test"
+13-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:15:22-82
+14        android:targetPackage="com.jstechnologies.dataloader.test" />
+14-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:12:22-80
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\a4a4cb9c52cbd035cd78ef833603eafe\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+16-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\a4a4cb9c52cbd035cd78ef833603eafe\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\a4a4cb9c52cbd035cd78ef833603eafe\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+17-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\a4a4cb9c52cbd035cd78ef833603eafe\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+18    <uses-permission android:name="android.permission.REORDER_TASKS" />
+18-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:24:5-72
+18-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:24:22-69
+19
+20    <application
+20-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true" >
+22-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:8:9-60
+23-->C:\Users\Jerry\Desktop\FirebaseDataLoader\dataloader\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6911931743365755621.xml:8:23-57
+24
+25        <activity
+25-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\f4748d38f3e18c20f0f386afe0c3c937\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+26            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+26-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\f4748d38f3e18c20f0f386afe0c3c937\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+27            android:exported="false"
+27-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\f4748d38f3e18c20f0f386afe0c3c937\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+28            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+28-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\f4748d38f3e18c20f0f386afe0c3c937\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+29
+30        <provider
+30-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\86784da8d4c481f8d6407c3faa5c8924\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+31            android:name="com.google.firebase.provider.FirebaseInitProvider"
+31-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\86784da8d4c481f8d6407c3faa5c8924\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+32            android:authorities="com.jstechnologies.dataloader.test.firebaseinitprovider"
+32-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\86784da8d4c481f8d6407c3faa5c8924\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+33            android:exported="false"
+33-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\86784da8d4c481f8d6407c3faa5c8924\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+34            android:initOrder="100" />
+34-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\86784da8d4c481f8d6407c3faa5c8924\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+35
+36        <meta-data
+36-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\2e6503c7e7b33e3559a86a3ab7d6a717\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+37            android:name="com.google.android.gms.version"
+37-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\2e6503c7e7b33e3559a86a3ab7d6a717\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+38            android:value="@integer/google_play_services_version" />
+38-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\2e6503c7e7b33e3559a86a3ab7d6a717\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+39
+40        <activity
+40-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:27:9-33:20
+41            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+41-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:28:13-99
+42            android:theme="@android:style/Theme" >
+42-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:29:13-49
+43            <intent-filter>
+43-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:30:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:17-69
+44-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:25-66
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:34:9-40:20
+48            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+48-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:35:13-95
+49            android:theme="@android:style/Theme" >
+49-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:36:13-49
+50            <intent-filter>
+50-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:30:13-32:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:17-69
+51-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:25-66
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:41:9-47:20
+55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+55-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:42:13-103
+56            android:theme="@android:style/Theme.Dialog" >
+56-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:43:13-56
+57            <intent-filter>
+57-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:30:13-32:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:17-69
+58-->[androidx.test:core:1.2.0] C:\Users\Jerry\.gradle\caches\transforms-2\files-2.1\ff25c04162ff943dff3292e200c3e8d4\core-1.2.0\AndroidManifest.xml:31:25-66
+59            </intent-filter>
+60        </activity>
+61    </application>
+62
+63</manifest>
